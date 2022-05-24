@@ -1,7 +1,7 @@
 """
 Transformer
 
-modified from the tutorial made by harvard NLP group:
+modified from the great tutorial made by harvard NLP group:
 http://nlp.seas.harvard.edu/annotated-transformer/
 """
 
